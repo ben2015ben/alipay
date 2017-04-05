@@ -1,0 +1,1 @@
+适用于Drupal [Alipay API](https://www.drupal.org/project/alipay_api) 模块的修改版SDK，请勿覆盖升级
